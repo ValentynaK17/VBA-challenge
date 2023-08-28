@@ -2,7 +2,7 @@
 yearly stock data analysis using VBA
 ## Summary
 This script helps with following analysis of stock market data for various tickers over multiple years:
-* a) Calculates the yearly change in stock price for each ticker symbol, by the following approach: 
+*  a) Calculates the yearly change in stock price for each ticker symbol, by the following approach: 
 	 * 1. for each ticker we search for records dated with earliest and latest date of the year 
     * 2. from the opening price at the start of the year we subtract the closing price at the end of the year.
  * b) Calculates the percentage change in stock price for the same period, as mentioned in a), by the dividing yearly change by opening price at the start of the year
