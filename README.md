@@ -12,11 +12,11 @@ Values for a) and b) are highlighted in such a way that positive changes have gr
 The script can be executed across multiple Excel sheets at once by looping through each worksheet
 * e) The bonus part allows us having the merged summary of data in separate sheet along with being grouped by ticker X year
 ##  Running specifics:
-In order to run the script Multiple_year_stock_data.xlsx should be opened with enabled macro selection and newly created macro with the script added in Stock_YearStatistics_Option1.bas
+In order to run the script Multiple_year_stock_data.xlsx should be opened with enabled macro selection and newly created macro with the script added in Stock_YearStatistics_Option1.bas. 
 In order to run extended version use script in Stock_YearStatistics_Extended.bas
 ## Final results:
-By running scripts for Multiple_year_stock_data.xlsx as an input there will be results, like shown in Screenshots_results folder
-Highlighting of positive/negative year change in price helps us with quick understanding of stock performance
+By running scripts for Multiple_year_stock_data.xlsx as an input there will be results, like shown in Screenshots_results folder. 
+Highlighting of positive/negative year change in price helps us with quick understanding of stock performance. 
 Comparing year-over-year tickers' total volume helps us with understanding the most popular ones and what are the market trends.
-For example, it’s worth to put an attention to DJH or LOM that have one of the highest volume sum for the last 3 years and have constant positive grow in yearly price change
+For example, it’s worth to put an attention to DJH or LOM that have one of the highest volume sum for the last 3 years and have constant positive grow in yearly price change. 
 Similarly, it is obvious that RKS is the worst player as it constantly (for all 3 analyzed years) has the highest decrease in yearly price change.
